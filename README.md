@@ -1,4 +1,4 @@
-# Binance-frontend
+# binance-frontend
 
 ## Project setup
 ```
